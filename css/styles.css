@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    padding: 5px;
+    background-image: url(../img/pexels-suissounet-2101187.jpg);
+    background-size: cover;
+    
+}
+
+.container {
+    background-color: #f4ebf891;
+    
+}
+h1 {
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    color: #EBDEF0;
+    -webkit-text-stroke: 0.5px black;
+}
+
+p {
+    color: #5c3c69 ;
+}
+
+button {
+    background-color: #e6e6fa;
+    color: #D87093;
+    transition: all 0.2s linear;
+    margin: 15px;
+}
+
+button:hover {
+    background-color: #D87093;
+    color:#e6e6fa;
+    transition: all 0.2s linear;
+}
